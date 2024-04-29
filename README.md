@@ -2,39 +2,34 @@
 
 ## Main Goals
 
-- Focus on the miniatures
-  - All rules and stats for each miniature must fit on one side of its card, encouraging strategic variety across different miniatures and focusing on the figures themselves.
-    - On the flip side of the card, there has to be a picture of the miniature
-      - Should enable proxying, while making sure that the miniature is easily identifiable
-  - All mechanics are based on the miniatures
-    - No army wide rules, special tactics or stratagems that are not represented by the miniatures
-  
+- **Miniature-Centric Gameplay**
+  - **Card Design**: Each miniature's card will feature all its rules and stats on one side to promote focus on the miniature and encourage diverse strategic options. The opposite side will display an image of the miniature, supporting both proxying and easy identification.
+  - **Game Mechanics**: All game mechanics are directly tied to individual miniatures, with no overarching army rules or general tactics. This ensures that all gameplay elements are visually represented on the battlefield, enhancing the thematic immersion and strategic depth of the game.
+
 - Alternating activations
-  - Each miniature has a speed tier
-  - Activations start from the highest speed and go down
-  - Players alternate activating miniatures within the same speed tier
-  - Once all miniatures of a speed tier have activated, player move to the next speed tier
-  - If player has no miniatures left to activate in a speed tier, their opponent activates all of their miniatures in that speed tier
-    - The player who had less miniatures activate in that speed tier gets to activate the first miniature in the next speed tier
+  - Keeps the players engaged and reduces downtime
 
 ## Core Rules
 
-### Turn Sequence
+### Turn Sequence and Activation Order
 
-- **Start of Turn**: Players roll dice to decide who activates first.
-  - In case of a tie, reroll until a winner is determined.
+1. **Roll to Determine Starting Player**:
+   - At the beginning of the game, players roll dice to determine who will activate first.
+
+2. **Alternate Activations**:
+   - Players take turns activating their miniatures one at a time.
+
+3. **Switch Starting Player Each Turn**:
+   - The player who did not activate the last miniature in the previous turn starts the next turn.
+     - This ensures no player gets consecutive activations between turns.
 
 ### Actions
 
-- Once per activation, a miniature can perform following actions up to its action limit
-- You can only perform each action once per activation
-  - Move
-    - Miniature can move up to it's movement range in inches
-  - Attack with a weapon
-    - Each weapon has a maximum range in inches
-    - If the target is within the maximum range, the attack can be made
-  - Charge
-    - Miniature can move double it's movement range in inches
+- **Action Limit**: Each miniature has an action limit, which indicates the maximum number of actions it can perform during its activation. This limit reflects the miniature’s speed and agility.
+- **Performing Actions**: During its activation, a miniature can perform any combination of the actions listed below, without repeating any single action, up to its action limit.
+  - **Move**: The miniature can move up to its movement range in inches.
+  - **Attack**: The miniature can make an attack if a target is within the weapon's maximum range.
+  - **Charge**: The miniature can move double its movement range in inches if the move ends within one inch of an enemy miniature.
   
 ### Weapons
 
@@ -52,8 +47,4 @@
 
 **Q: Isn't the rule limiting all rules and stats to one side of a miniature's card too restrictive?**
 
-**A:** If you have no miniatures left in a speed tier, your opponent will activate all their remaining miniatures in that tier. This can be countered by building a list with more variety in speed tiers. This rule is deliberate, balanced by making faster units more expensive. It underscores the strategic decision to invest in speed at a higher cost.
-
-**Q: What happens if I run out of miniatures to activate within a specific speed tier?**
-
-**A:** If you have no miniatures left in a speed tier, your opponent activates all their remaining miniatures in that speed tier. This is intentional and should is countered by the increased point cost of faster units. This mechanic reflects the strategic trade-off of investing in faster, albeit more costly, units.
+A: It's a design choice to keep the focus on the miniatures themselves, instead of relying on "invisible" rules or abilities that aren't represented by the figures. This way, players can easily see what each miniature can do at a glance, and it encourages strategic variety based on the miniatures' unique stats and abilities.
