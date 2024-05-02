@@ -3,13 +3,17 @@
 ## Main Goals
 
 - **Miniature-Centric Gameplay**
-  - **Card Design**: Each miniature's card will feature all its rules and stats on one side to promote focus on the miniature and encourage diverse strategic options. The opposite side will display an image of the miniature, supporting both proxying and easy identification.
-  - **Game Mechanics**: All game mechanics are directly tied to individual miniatures, with no overarching army rules or general tactics. This ensures that all gameplay elements are visually represented on the battlefield, enhancing the thematic immersion and strategic depth of the game.
-
-- Alternating activations
-  - Keeps the players engaged and reduces downtime
+  - **Miniature Agnostic**: This game is designed to be played with any miniatures. Got a board game with cool minis gathering dust? Create cards for them and bring them to life this way! Got a bunch of minis from different games? Mix and match them to create unique warbands! Want to play with pebbles and sticks? Go for it! The only rule is that you and your opponent must be able to tell which miniature corresponds to which card.
+  - **Card Design**: Each miniature's card displays its rules and stats on one side for easy reference. The opposite side should include an image of the miniature or another identifier to ensure players can clearly distinguish each piece during play. Whether using traditional miniatures or alternative items, a quick photo with your phone is sufficient to meet this requirement.
+  - **Game Mechanics**: All game mechanics are directly tied to individual miniatures, with no overarching army rules or stratagems. This ensures that all gameplay elements are visually represented on the battlefield, enhancing the thematic immersion and strategic depth of the game.
+  - **Alternating activations**: Keeps the players engaged and reduces downtime. It also reduces analysis paralysis, as players have to make decisions more frequently.
 
 ## Core Rules
+
+### Dice used
+
+- **D6**: Six-sided dice are used for all rolls in the game.
+  - An unmodified roll of 6 is always a success, while a roll of 1 is always a failure.
 
 ### Turn Sequence and Activation Order
 
@@ -19,17 +23,19 @@
 2. **Alternate Activations**:
    - Players take turns activating their miniatures one at a time.
 
-3. **Switch Starting Player Each Turn**:
+3. **Switch Starting Player at the End of Each Turn:**:
    - The player who did not activate the last miniature in the previous turn starts the next turn.
-     - This ensures no player gets consecutive activations between turns.
+     - This rule prevents any player from activating miniatures consecutively across turns, ensuring fair and balanced play by alternating the strategic advantage of the first move.
 
 ### Actions
 
 - **Action Limit**: Each miniature has an action limit, which indicates the maximum number of actions it can perform during its activation. This limit reflects the miniature’s speed and agility.
 - **Performing Actions**: During its activation, a miniature can perform any combination of the actions listed below, without repeating any single action, up to its action limit.
-  - **Move**: The miniature can move up to its movement range in inches.
-  - **Attack**: The miniature can make an attack if a target is within the weapon's maximum range.
-  - **Charge**: The miniature can move double its movement range in inches if the move ends within one inch of an enemy miniature.
+  - **Basic actions**
+    - **Move**: The miniature can move up to its movement range in inches.
+    - **Attack**: The miniature can make an attack if a target is within the weapon's maximum range and in line of sight.
+  - **Abilities**
+    - Abilities are miniature specific actions that are listed on the miniature's card. For example, a miniature might have a "Charge" ability that allows it to move and attack in the same activation.
   
 ### Weapons
 
